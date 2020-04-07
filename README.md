@@ -4,7 +4,7 @@ This course offers an explanation of the basic concepts for managing github repo
 
 Topics:
 
-* Version control systems
+* [Version control systems](/1-version-control-systems)
   * What are Version Control Systems?
   * Version control concepts
 * Git
