@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Git Tutorial by Push Dev
 
-You can use the [editor on GitHub](https://github.com/pushdev-code/git-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This course offers an explanation of the basic concepts for managing github repos. At the end of the course you will be able to Push your code from your machine to a shared remote repository and track the changes made by other members of the team. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Topics:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pushdev-code/git-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Version control systems
+* Git
+  * Installation
+  * Git repositories
+  * Working tree
+  * Adding files/changes
+  * Commiting
+  * Synchronization with remote Git repositories
+  * Branches
+* TODO@you: Create your own repository with some changes
