@@ -46,6 +46,6 @@ Advanced Actions
 
 And a typical scenario goes like this:
 
-Alice __adds__ a file (_list.txt_) to the __repository__. She __checks it out__, makes a change (puts “milk” on the list), and checks it back in with a checkin message (“Added required item.”). The next morning, Bob __updates__ his local working set and sees the latest revision of _list.txt_, which contains “milk”. He can browse the __changelog__ or __diff__ to see that Alice put “milk” the day before.
+Alice __adds__ a file (`list.txt`) to the __repository__. She __checks it out__, makes a change (puts “milk” on the list), and checks it back in with a checkin message (“Added required item.”). The next morning, Bob __updates__ his local working set and sees the latest revision of `list.txt`, which contains “milk”. He can browse the __changelog__ or __diff__ to see that Alice put “milk” the day before.
 
 Source: [Better explained](https://betterexplained.com/articles/a-visual-guide-to-version-control/)

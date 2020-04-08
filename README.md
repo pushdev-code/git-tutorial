@@ -7,12 +7,15 @@ Topics:
 * [Version control systems](1-version-control-systems)
   * What are Version Control Systems?
   * Version control concepts
-* Git
+* [Git](2-git)
   * Installation
+  * Git Configuration
   * Git repositories
   * Working tree
   * Adding files/changes
   * Commiting
-  * Synchronization with remote Git repositories
   * Branches
-* TODO@you: Create your own repository with some changes
+  * Synchronization with remote Git repositories
+  * Pull Requests
+* [TODO@you: Create your own repository with your changes](3-git-todo)
+* [Course students](4-students)
