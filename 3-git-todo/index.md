@@ -57,7 +57,7 @@ $ git commit -m "Include a meaningful description of your changes"
 $ git push -u origin feature/your-full-name
 ```
 
-12. Go to https://github.com/pushdev-code/git-tutorial and create a new Pull request. The button for your branch should appear when the page has loaded.
+12. Go to [https://github.com/pushdev-code/git-tutorial](https://github.com/pushdev-code/git-tutorial) and create a new Pull request. The button for your branch should appear when the page has loaded. If the button doesn't appear, click on pull requests link.
 
 * Make sure your Pull request base is the `master` branch.
 * Please include `fabianmarinog` and `juancho11gm` as reviewers so we can approve your changes.
