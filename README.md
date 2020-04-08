@@ -1,4 +1,4 @@
-## Welcome to Git Tutorial by Push Dev
+## Welcome to Git Tutorial by [Push Dev](https://pushdev.co)
 
 This course offers an explanation of the basic concepts for managing github repos. At the end of the course you will be able to Push your code from your machine to a shared remote repository and track the changes made by other members of the team.
 
