@@ -60,10 +60,11 @@ $ git push -u origin feature/your-full-name
 12. Go to [https://github.com/pushdev-code/git-tutorial](https://github.com/pushdev-code/git-tutorial) and create a new Pull request. The button for your branch should appear when the page has loaded. If the button doesn't appear, click on pull requests link.
 
 * Make sure your Pull request base is the `master` branch.
-* Please include `fabianmarinog` and `juancho11gm` as reviewers so we can approve your changes.
-* Wait until the Pull request is merged into master.
+* Please include `pushdev-code`, `fabianmarinog` and `juancho11gm` as reviewers so your changes can be approved.
+* Changes can be requested by the reviewers, check your email for any updates.
+* Wait until the Pull request is approved and merged into master.
 
-13. To see your changes in the `master` brannch:
+13. To see your changes in the `master` branch:
 
 ```
 $ git checkout master
