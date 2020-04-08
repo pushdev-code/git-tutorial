@@ -4,7 +4,7 @@ Git is a popular tool to manage repositories, most companies relay on it or in s
 
 ## What is Git?
 
-Git is an implementation of a distributed [version control system](1-version-control-systems).
+Git is an implementation of a distributed [version control system](../1-version-control-systems).
 
 ## Installation
 
