@@ -87,7 +87,7 @@ git commit
 It is a good practice to include a message for the commit so it can be tracked easily.
 
 ```
-git commit -m "Meaningfull commit message"
+git commit -m "Meaningful commit message"
 ```
 
 Follow [these guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53) for good commit messages.
