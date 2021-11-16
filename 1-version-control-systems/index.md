@@ -6,8 +6,8 @@ Let's see what we can do with VCS, and how it will benefit our developer skills.
 
 A version control system (VCS) is a piece of software that records files and the changes in those files so you can switch in between specific versions later. The collection of versions are saved in a place called repository so they are tracked into a captured snapshot at certain point in time.
 
-![Version control systems](https://www.vogella.com/tutorials/Git/img/xvcs_state10.png.pagespeed.ic._BJgeBXw1P.webp)
-Source: [Vogella](https://www.vogella.com/tutorials/Git/article.html#introduction-into-version-control-systems)
+![Version control systems](https://git-scm.com/images/branching-illustration@2x.png)
+Source: [git-scm](https://git-scm.com/)
 
 Simple: Think about VCSs as a software that tracks all the changes you make to certain group of files so you can revert any change at any time. No more files named: `final-draft1-copy-this-is-final-now-correct-final-1`
 
