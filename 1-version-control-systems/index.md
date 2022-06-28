@@ -50,4 +50,4 @@ Alice __adds__ a file (`list.txt`) to the __repository__. She __checks it out__,
 
 Source: [Better explained](https://betterexplained.com/articles/a-visual-guide-to-version-control/)
 
-juanfran
+juan esteban
